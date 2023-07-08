@@ -2,6 +2,10 @@
 
 ChatGPT Clone, OpenAI API kullanarak AI destekli bir sohbet arayüzü sağlayan bir web uygulamasıdır.
 
+
+https://github.com/YusufsKaygusuz/ChatGPT_Clone/assets/86704802/7aca1792-6f9d-498e-a283-02d1b68a9db5
+
+
 ## Özellikler
 
 - Kullanıcılar, bir metin girişi yaparak `AI ile sohbet` edebilirler.
