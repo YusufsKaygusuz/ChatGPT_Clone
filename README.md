@@ -4,10 +4,10 @@ ChatGPT Clone, OpenAI API kullanarak AI destekli bir sohbet arayüzü sağlayan 
 
 ## Özellikler
 
-- Kullanıcılar, bir metin girişi yaparak AI ile sohbet edebilirler.
+- Kullanıcılar, bir metin girişi yaparak `AI ile sohbet` edebilirler.
 - AI yanıtları, hızlı bir şekilde alınarak ekrana yazılar halinde görüntülenir.
-- Kullanıcılar, sohbet geçmişini kaydedebilir ve görüntüleyebilirler.
-- Tema modunu değiştirebilirler (light mode ve dark mode).
+- Kullanıcılar, `sohbet geçmişini` kaydedebilir ve görüntüleyebilirler.
+- Tema modunu değiştirebilirler `(light mode ve dark mode)`.
 
 ## Kullanım
 
@@ -25,12 +25,11 @@ ChatGPT Clone, OpenAI API kullanarak AI destekli bir sohbet arayüzü sağlayan 
    ```shell
    npm install
 
-!! API anahtarınızı API_KEY değişkenine yerleştirin.
-
-Uygulamayı başlatmak için aşağıdaki komutu çalıştırın:
+<b>!!! API anahtarınızı `API_KEY` değişkenine yerleştirin.</b>
+3. Uygulamayı başlatmak için aşağıdaki komutu çalıştırın:
 
     npm start
-Web tarayıcınızda uygulamayı açmak için http://localhost:3000 adresine gidin.
+Web tarayıcınızda uygulamayı açmak için `http://localhost:3000` adresine gidin.
 
 Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
