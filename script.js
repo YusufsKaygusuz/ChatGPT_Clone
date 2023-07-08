@@ -5,7 +5,7 @@ const themeButton = document.querySelector("#theme-btn");
 const deleteButton = document.querySelector("#delete-btn");
 
 let userText = null;
-const API_KEY = "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";
+const API_KEY = "Your API Key";
 const initialHeight = chatInput.scrollHeight;
 
 const loadDataFromLocalstorage = () => {
